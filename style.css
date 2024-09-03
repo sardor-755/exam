@@ -1,0 +1,32 @@
+table,tr,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 800px;
+    height: 13px;
+    text-align: center;
+}
+.a{
+background-color: green;
+color: azure;
+}
+.b{
+background-color: blue;
+color: azure;
+}
+.s{
+color: azure;
+background-color: red;
+}
+.d{
+background-color: black;
+color: azure;
+}
+
+
+
+
+
+
+
+
+ 
